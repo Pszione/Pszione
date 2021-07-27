@@ -10,7 +10,7 @@
 </ul>
 
 - 😄 Open to work! Email me at contato.pedrosantos2020@gmail.com
-- 🌱 I’m currently learning **Flutter (by Google)**. And migrating from Game Dev to Mobile Software Dev
+- 💡 I’m currently learning **Flutter (by Google)**. And migrating from Game Dev to Mobile Software Dev
 - ⚡ Fun fact **I've been in love with Mountain Biking for a long time**. And one of my other hobbies are studying automotive engineering and DIY projects
 
 <br />
