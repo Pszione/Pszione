@@ -3,7 +3,7 @@
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Pszione?logo=GitHub&style=for-the-badge)-->
 
-<h1>Connect with me:</h1>
+###   Connect with me:
 
 <a href="https://www.linkedin.com/in/pedro-santos-4000/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro-santos-4000" height="22" width="22" /></a>
 <a href="https://www.youtube.com/channel/UCFYl4RiSmhlti5qd5R9Eu0w" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCFYl4RiSmhlti5qd5R9Eu0w" height="22" width="22" /></a>
@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pszione&layout=compact&hide=html" alt="Pszione" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pszione&show_icons=true" alt="Pszione" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pszione&show_icons=true" alt="Pszione" /></p> -->
 
 <!--
 
