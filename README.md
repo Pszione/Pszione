@@ -10,12 +10,14 @@
 </ul>
 
 - 😄 Open to work! Email me at contato.pedrosantos2020@gmail.com
-- 💡 I’m currently learning **Flutter (by Google)**. And migrating from Game Dev to Mobile Software Dev
-- ⚡ Fun fact **I've been in love with Mountain Biking for a long time**. And a few of my other hobbies are studying automotive engineering, DIY projects, and more
+- 💡  I’m currently learning **Flutter and Dart (by Google)**. And migrating from Game Dev to Mobile Software Development
+- 🧑‍💻 4+ years of experience with C# (.NET) and developing games using Unity3d engine
+- ⚡ Fun fact **I've been in love with Mountain Biking and Cars for a long, long time**. And a few of my other hobbies are studying automotive engineering, a little bit of physics theory, DIY projects, and more
 
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pszione&layout=compact&hide=html" alt="Pszione" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pszione&repo=flutter_banking_pay_responsive)](https://github.com/Pszione/flutter_banking_pay_responsive)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pszione&show_icons=true" alt="Pszione" /></p> -->
 
