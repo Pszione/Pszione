@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Santos</h1>
-<h3>Curious for the unknown - be it new tech, mobile programming or game programming <br />#knowledgeisfreedom</h3>
+<h3>Curious for the unknown - be it new tech, mobile programming or game programming <br />#knowledgeisfreedom   🇧🇷</h3>
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Pszione?logo=GitHub&style=for-the-badge)-->
 
