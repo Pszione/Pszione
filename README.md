@@ -16,7 +16,7 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pszione&layout=compact&hide=html&card_width=230" alt="Pszione" />
+<p><img align="left" unselectable="on" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pszione&layout=compact&hide=html&card_width=230" alt="Pszione" />
 <a href="https://github.com/Pszione/flutter_banking_pay_responsive" target="blank"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pszione&repo=flutter_banking_pay_responsive&show_owner=true" /></a></p>
 
 
