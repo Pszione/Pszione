@@ -6,7 +6,7 @@
 <h3>Connect with me:</h3>
 
 <ul>
-  <a href="https://www.linkedin.com/in/pedro-santos-4000/" target="blank"><li><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="pedro-santos-4000" height="28" width="80" /></a>&emsp;<a href="https://linktr.ee/Pszione" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Linktree.svg" alt="Pszione" height="28" width="80" /></a>&emsp;<a href="https://www.youtube.com/channel/UCFYl4RiSmhlti5qd5R9Eu0w" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="UCFYl4RiSmhlti5qd5R9Eu0w" height="28" width="80" /></li></a>
+  <a href="https://www.linkedin.com/in/pedro-santos-4000/" target="blank"><li><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="pedro-santos-4000" height="28" width="80" /></li></a>&emsp;<a href="https://linktr.ee/Pszione" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Linktree.svg" alt="Pszione" height="28" width="80" /></a>&emsp;<a href="https://www.youtube.com/channel/UCFYl4RiSmhlti5qd5R9Eu0w" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="UCFYl4RiSmhlti5qd5R9Eu0w" height="28" width="80" /></li></a>
 </ul>
 
 - 😄 Open to work! Email me at contato.pedrosantos2020@gmail.com
