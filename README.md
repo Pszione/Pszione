@@ -11,7 +11,7 @@
 
 - 😄 Open to work! Email me at contato.pedrosantos2020@gmail.com
 - 🧑‍💻 4+ years of experience with C# (.NET) and developing games using Unity3d engine
-- 🧑‍💻 13 months of experience with Flutter and Dart (by Google) | Migrating from Game Dev to Mobile Software Development
+- 🧑‍💻 2 years of experience with Flutter and Dart (by Google) | Successfully migrated from Game Dev to Mobile Software Development
 - ⚡ Fun fact **I've been in love with Mountain Biking and Cars for a long, long time**. And a few of my other hobbies are studying automotive engineering, a little bit of physics theory, DIY projects, and more
 
 <br />
