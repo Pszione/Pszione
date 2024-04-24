@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Santos</h1>
-<h3>Curious for the unknown - be it new tech, mobile programming or game programming <br />#knowledgeisfreedom   🇧🇷</h3>
+<h3>Always curious - be it new tech, mobile programming or game programming <br />#knowledgeisfreedom   🇧🇷</h3>
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Pszione?logo=GitHub&style=for-the-badge)-->
 
@@ -11,10 +11,12 @@
 </li>
 </ul>
 
-- 😄 Open to work! Email me at contato.pedrosantos2020@gmail.com
-- 🧑‍💻 2 years of experience with Flutter and Dart (by Google) | Developed +10 apps from beginning to the app stores | Successfully migrated from Game Dev to Mobile Software Development
+- 😄 Open for freelance! Email me at contato.pedrosantos2020@gmail.com
+- 🧑‍💻 8 years of experience developing great applications!
+- 📱 3 years of experience with Flutter and Dart (by Google)
+- Developed +12 apps from beginning to app store release (AppStore and GooglePlay) | Successfully transitioned from Game Dev to Mobile Software Development
 - 🧑‍💻 4+ years of experience with C# (.NET) and developing games using Unity3d engine
-- ⚡ Fun fact **I've been in love with Mountain Biking and Cars for a long, long time**. And a few of my other hobbies are studying automotive engineering, a little bit of physics theory, DIY projects, and more
+- ⚡ Fun facts: a few of my hobbies are studying automotive engineering, a little bit of physics theory, mountain biking, DIY projects, gym and more
 
 <br />
 
