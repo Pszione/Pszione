@@ -14,7 +14,7 @@
 - 😄 Open for freelance! Email me at contato.pedrosantos2020@gmail.com
 - 🧑‍💻 8 years of experience developing great applications!
 - 📱 3 years of experience with Flutter and Dart (by Google)
-- Developed +12 apps from beginning to app store release (AppStore and GooglePlay) | Successfully transitioned from Game Dev to Mobile Software Development
+- 🧑‍💻 Developed +12 apps from beginning to app store release (AppStore and GooglePlay) | Successfully transitioned from Game Dev to Mobile Software Development
 - 🧑‍💻 4+ years of experience with C# (.NET) and developing games using Unity3d engine
 - ⚡ Fun facts: a few of my hobbies are studying automotive engineering, a little bit of physics theory, mountain biking, DIY projects, gym and more
 
